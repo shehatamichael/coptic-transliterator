@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="coptic-translit-mshehata", # Replace with your own username
+    name="coptic-translit",
     version="0.1",
     author="Michael Shehata",
     author_email="shehatamichael4@gmail.com",
