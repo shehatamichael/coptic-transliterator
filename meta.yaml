@@ -9,7 +9,6 @@ source:
 requirements:
   host:
     - python
-    - pynini
 
   run:
     - python
