@@ -1,5 +1,4 @@
-import setuptools
-from setuptools import Extension
+from setuptools import Extension, setup
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
@@ -13,7 +12,7 @@ coptictranslittest = Extension(
         "src/transliteratory.py",
     ],
 )
-setuptools.setup(
+setup(
     name="coptictranslittest",
     version="0.0.1",
     author="Michael Shehata",
