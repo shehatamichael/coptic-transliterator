@@ -1,4 +1,4 @@
-from setuptools import Extension, setup
+from setuptools import Extension, setup, find_packages
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
@@ -21,7 +21,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/shehatamichael/coptic-transliteration",
-    packages=setuptools.find_packages(),
+    packages=find_packages(),
     install_requires=['pynini'],
     classifiers=[
         "Programming Language :: Python :: 3",
