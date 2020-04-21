@@ -6,6 +6,7 @@ The vision of this project is to provide an easy, bulk transliteration service b
 
 ## Collaborators
 
+* Michael Shehata (shehatamichael4@gmail.com)
 * Radobice Fass (radobice.fass@gmail.com)
 
 ## About the Transliterator
