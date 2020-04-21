@@ -58,4 +58,4 @@ The vision of this project is to provide an easy, bulk transliteration service b
 
 ## Interested in Contributing?
 
-Please contact [Michael Shehata](mailto:shehatamichael4@gmail.com) and [Radobice Fass](mailto:radobice.fass@gmail.com)
+Please contact Michael Shehata (shehatamichael4@gmail.com) and Radobice Fass (radobice.fass@gmail.com)
