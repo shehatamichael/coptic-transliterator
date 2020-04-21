@@ -55,3 +55,7 @@ The vision of this project is to provide an easy, bulk transliteration service b
 ## License
 
 `coptictranslit` is released under the MIT license. See `LICENSE.txt` for more information.
+
+## Interested in Contributing?
+
+Please contact [Michael Shehata](mailto:shehatamichael4@gmail.com) and [Radobice Fass](mailto:radobice.fass@gmail.com)
