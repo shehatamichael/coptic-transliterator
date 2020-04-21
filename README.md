@@ -8,7 +8,7 @@ The vision of this project is to provide an easy, bulk transliteration service b
 
 * [Radobice Fass](mailto:radobice.fass@gmail.com)
 
-## The transliteration script
+## About the Transliterator
 
 1) Accepts a single text file as input
 2) Transforms a copy of the input file into Latin script using rule-based character mappings (implemented in Python)
@@ -43,6 +43,8 @@ The vision of this project is to provide an easy, bulk transliteration service b
 **TODO:** Update pronunciation guide when ready
 
 ## Release History
+* 0.1.1
+	* Updates to `README` and `LICENSE`
 * 0.1.0
   * *Work in Progress* initial release
 
