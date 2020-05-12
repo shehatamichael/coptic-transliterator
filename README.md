@@ -4,7 +4,27 @@ The vision of this project is to provide an easy, bulk transliteration service b
 
 🚧 ***This script is a work-in-progress and updates will be made regularly to support more rules*** 🚧
 
+## Disclaimer
+
+This tool is still in development and we are working on expanding this as fast as we can. This tool supports 1-to-1 mapping for all Coptic letters. Special environement (1:Multiple mapping) is currently supported for the following letters:
+
+Alpha -- ⲁ\
+Veeta -- ⲃ\
+Gamma -- ⲅ\
+Ei -- ⲉ\
+Eeta -- ⲏ
+
 [![Downloads](https://pepy.tech/badge/coptictranslit)](https://pepy.tech/project/coptictranslit) [![PyPI version](https://badge.fury.io/py/coptictranslit.svg)](https://badge.fury.io/py/coptictranslit)
+
+## Copyright and license
+
+`coptictranslit` is released under the MIT license. See `LICENSE.txt` for more information.
+
+## Citation
+
+If you use this tool in your program or research, we would appreciate if you cite this paper:
+
+> [Coptic Transliteration Tool](https://github.com/shehatamichael/coptic-transliterator/blob/master/Coptic%20Transliteration%20Tool.pdf), May 2020, Michael Shehata, Montclair State University of New Jersey, U.S.,.
 
 ## Collaborators
 
@@ -87,6 +107,8 @@ The vision of this project is to provide an easy, bulk transliteration service b
 " ' " - [ʔ] as in "uh-oh" (sound just preceding "u" and "o", known as a glottal stop)"
 
 ## Release History
+* 1.0
+	* First official release
 * 0.1.2
 	* Updates to `README` and minor updates to script message prompt
 * 0.1.1
@@ -102,10 +124,6 @@ The rules have been mainly gathered from senior Coptic readers and experts in ou
 
 * K. Gorman. 2016. Pynini: A Python library for weighted finite-state grammar compilation. In Proc. ACL Workshop on Statistical NLP and Weighted Automata, 75-80.
 
-
-## License
-
-`coptictranslit` is released under the MIT license. See `LICENSE.txt` for more information.
 
 ## Interested in Contributing?
 
