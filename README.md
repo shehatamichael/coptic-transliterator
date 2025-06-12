@@ -20,7 +20,7 @@ For those looking for an interactive, AI-powered experience, I've developed a de
 You can find the new project and its deployed version here:
 
 * **GitHub Repository:** [shehatamichael/coptic-transliterator-llm](https://github.com/shehatamichael/coptic-transliterator-llm)
-* **Live Application:** (`https://coptic-transliterator-llm.streamlit.app/`)
+* **Live Application:** (https://coptic-transliterator-llm.streamlit.app/)
 
 ---
 
